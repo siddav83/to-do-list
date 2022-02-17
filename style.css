@@ -99,7 +99,7 @@ form button:hover {
   opacity:  0;
 }
 
-select {
+/*select {
   -webkit-appearance:  none;
   -moz-appearance:  none;
   appearance:  none;
@@ -112,8 +112,8 @@ select {
   position: relative;
   overflow:hidden;
   padding: 1rem;
-}
-
+}*/
+/*
 select {
   color: #ff6f48;
   width: 10rem;
@@ -129,4 +129,4 @@ select {
   right: 0;
   padding: 1rem;
   pointer-events: none;
-}
+}*/
